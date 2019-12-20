@@ -1,7 +1,14 @@
+/.idea/
 /bin/
 /out/
-/.settings/
-.classpath
-.project
+/logs/
+
+/target/
+/*/target/
+
 *.class
 *.jar
+*.iml
+
+/dist/
+
